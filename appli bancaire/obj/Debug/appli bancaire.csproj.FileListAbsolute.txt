@@ -1,0 +1,7 @@
+c:\users\svantieghem\documents\visual studio 2012\Projects\appli bancaire\appli bancaire\bin\Debug\appli bancaire.exe.config
+G:\Visual Studio 2012\Projects\appli bancaire\appli bancaire\bin\Debug\appli bancaire.exe.config
+G:\Visual Studio 2012\Projects\appli bancaire\appli bancaire\obj\Debug\appli bancaire.csprojResolveAssemblyReference.cache
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\appli bancaire\appli bancaire\bin\Debug\appli bancaire.exe
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\appli bancaire\appli bancaire\bin\Debug\appli bancaire.pdb
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\appli bancaire\appli bancaire\obj\Debug\appli bancaire.exe
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\appli bancaire\appli bancaire\obj\Debug\appli bancaire.pdb
